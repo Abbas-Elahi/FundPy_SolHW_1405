@@ -1,0 +1,11 @@
+﻿model,country,qty,engine,fuel,hp,max_kmh,range_km,price_kusd,year
+Toyota Supra,Japan,120,I6,Gasoline,340,250,600,58,2024
+Honda Civic Type R,Japan,170,I4,Gasoline,315,272,520,46,2024
+Ford Mustang GT,USA,150,V8,Gasoline,480,250,520,48,2024
+Tesla Model 3,USA,200,Electric,Electric,283,225,500,40,2024
+BMW M3,Germany,90,I6,Gasoline,473,250,550,78,2024
+Porsche 911 Carrera,Germany,65,Flat6,Gasoline,388,293,600,116,2024
+Ferrari Roma,Italy,30,V8,Gasoline,612,320,600,245,2024
+Lamborghini Huracan,Italy,25,V10,Gasoline,630,325,550,270,2024
+Hyundai Elantra N,South Korea,130,I4,Gasoline,276,250,550,34,2024
+Peugeot 208 GT,France,160,I3,Gasoline,130,208,650,27,2024
