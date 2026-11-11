@@ -1,0 +1,192 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("cars_practice_10.csv")
+df.head()
+df.tail(3)
+df.shape
+df.columns
+df.columns.to_list()
+df.info()
+df.describe()
+print(df["model"])
+print(df[["model", "country", "max_kmh"]])
+df.iloc[0]
+df.iloc[0:3]
+df.iloc[0:3, 0:4]
+df.loc[0, "model"]
+germany = df[df["country"] == "Germany"]
+germany
+
+fast_cars = df[df["max_kmh"] > 250]
+fast_cars
+
+result = df[(df["country"] == "Italy") &(df["hp"] > 600)]
+result
+
+result = df[(df["fuel"] == "Electric") | (df["price_kusd"] < 40)]
+result
+
+expensive = df.sort_values(
+    "price_kusd",
+    ascending=False
+)
+
+expensive
+
+expensive[["model", "price_kusd"]]
+
+fastest = df.sort_values(
+    "max_kmh",
+    ascending=False
+)
+fastest
+
+print(fastest[["model", "max_kmh"]].head(3))
+
+
+# Total number of cars
+print(df["qty"].sum())
+
+# Average horsepower
+print(df["hp"].mean())
+
+# Maximum speed
+print(df["max_kmh"].max())
+
+# Minimum speed
+print(df["max_kmh"].min())
+
+# Average price
+print(df["price_kusd"].mean())
+
+country_qty = df.groupby("country")["qty"].sum()
+
+country_qty = country_qty.sort_values(
+    ascending=False
+)
+
+print(country_qty)
+
+report = df.groupby("country").agg({
+    "model": "count",
+    "qty": "sum",
+    "hp": "mean",
+    "max_kmh": "max"
+})
+
+print(report)
+
+plt.figure(figsize=(12, 5))
+
+plt.bar(
+    df["model"],
+    df["max_kmh"],
+    color="royalblue"
+)
+
+plt.title("Maximum Speed of Cars")
+plt.xlabel("Car Model")
+plt.ylabel("Speed (km/h)")
+
+plt.xticks(rotation=60, ha="right")
+plt.tight_layout()
+plt.show()
+
+plt.figure(figsize=(8, 5))
+
+plt.scatter(
+    df["price_kusd"],
+    df["hp"],
+    color="tomato",
+    s=100
+)
+
+plt.title("Price vs Horsepower")
+plt.xlabel("Price (1000 USD)")
+plt.ylabel("Horsepower")
+
+plt.grid(alpha=0.3)
+plt.show()
+
+df_new = df.drop(columns=["year"])
+
+df_new.head()
+
+df_new = df.drop(
+    columns=["year", "range_km"]
+)
+
+df_new.columns
+
+df_new = df.drop(index=0)
+
+df_new
+
+df_new = df_new.reset_index(drop=True)
+
+df_new
+
+df_new = df[
+    df["model"] != "Tesla Model 3"
+]
+
+df_new
+
+new_car = pd.DataFrame([{
+    "model": "Mazda MX-5",
+    "country": "Japan",
+    "qty": 110,
+    "engine": "I4",
+    "fuel": "Gasoline",
+    "hp": 181,
+    "max_kmh": 219,
+    "range_km": 520,
+    "price_kusd": 33,
+    "year": 2024
+}])
+
+df_added = pd.concat(
+    [df, new_car],
+    ignore_index=True
+)
+
+df_added.tail()
+# print(df_added.shape)
+
+df_added.loc[
+    df_added["model"] == "Mazda MX-5",
+    "qty"
+] = 115
+
+print(df_added.tail())
+
+df_added.loc[
+    df_added["model"] == "Toyota Supra",
+    "price_kusd"
+] = 60
+
+df["price_usd"] = df["price_kusd"] * 1000
+
+print(df[["model", "price_usd"]])
+
+df_renamed = df.rename(columns={
+    "qty": "count",
+    "max_kmh": "speed"
+})
+
+print(df_renamed.columns)
+
+df_added.to_csv(
+    "cars_updated.csv",
+    index=False
+)
+
+report.to_csv(
+    "country_report.csv"
+)
+
+report.reset_index().to_csv(
+    "country_report.csv",
+    index=False
+)
