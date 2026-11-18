@@ -1,0 +1,151 @@
+id,dish,country,restaurant,category,price_usd,orders,rating
+1,Koobideh Kebab,Iran,Persian Flame,Main,12,320,4.8
+2,Joojeh Kebab,Iran,Persian Flame,Main,14,265,4.7
+3,Ghormeh Sabzi,Iran,Persian Flame,Main,11,240,4.9
+4,Doogh,Iran,Persian Flame,Drink,2.5,310,4.4
+5,Saffron Ice Cream,Iran,Persian Flame,Dessert,5,175,4.8
+6,Fesenjan,Iran,Saffron House,Main,15,165,4.7
+7,Zereshk Polo,Iran,Saffron House,Main,13,280,4.8
+8,Ash Reshteh,Iran,Saffron House,Starter,6,195,4.6
+9,Sholeh Zard,Iran,Saffron House,Dessert,4,140,4.5
+10,Persian Tea,Iran,Saffron House,Drink,2,290,4.3
+11,Barg Kebab,Iran,Tehran Grill,Main,21,150,4.9
+12,Dizi,Iran,Tehran Grill,Main,10,230,4.6
+13,Kashk Bademjan,Iran,Tehran Grill,Starter,7,185,4.7
+14,Faloodeh,Iran,Tehran Grill,Dessert,4.5,170,4.6
+15,Doogh,Iran,Tehran Grill,Drink,3,255,4.5
+16,Margherita Pizza,Italy,Roma Table,Main,12,410,4.8
+17,Carbonara,Italy,Roma Table,Main,16,290,4.7
+18,Bruschetta,Italy,Roma Table,Starter,7,180,4.5
+19,Tiramisu,Italy,Roma Table,Dessert,8,260,4.9
+20,Espresso,Italy,Roma Table,Drink,3,340,4.6
+21,Pepperoni Pizza,Italy,Napoli Oven,Main,15,380,4.7
+22,Lasagna,Italy,Napoli Oven,Main,17,225,4.8
+23,Caprese Salad,Italy,Napoli Oven,Starter,9,160,4.4
+24,Gelato,Italy,Napoli Oven,Dessert,6,315,4.8
+25,Lemon Soda,Italy,Napoli Oven,Drink,4,190,4.2
+26,Seafood Risotto,Italy,Milano Kitchen,Main,24,145,4.6
+27,Pesto Pasta,Italy,Milano Kitchen,Main,13,245,4.7
+28,Arancini,Italy,Milano Kitchen,Starter,8,205,4.5
+29,Panna Cotta,Italy,Milano Kitchen,Dessert,9,155,4.6
+30,Cappuccino,Italy,Milano Kitchen,Drink,4.5,275,4.7
+31,Salmon Sushi,Japan,Tokyo Bento,Main,18,305,4.9
+32,Chicken Ramen,Japan,Tokyo Bento,Main,13,425,4.8
+33,Edamame,Japan,Tokyo Bento,Starter,5,215,4.4
+34,Matcha Mochi,Japan,Tokyo Bento,Dessert,6,245,4.7
+35,Green Tea,Japan,Tokyo Bento,Drink,3,330,4.5
+36,Tuna Sushi,Japan,Osaka Sushi,Main,22,260,4.8
+37,Tempura Udon,Japan,Osaka Sushi,Main,15,285,4.6
+38,Miso Soup,Japan,Osaka Sushi,Starter,4,310,4.5
+39,Dorayaki,Japan,Osaka Sushi,Dessert,5,185,4.6
+40,Ramune,Japan,Osaka Sushi,Drink,4,200,4.3
+41,Wagyu Steak,Japan,Kyoto Bowl,Main,65,95,4.9
+42,Chicken Katsu,Japan,Kyoto Bowl,Main,14,350,4.7
+43,Gyoza,Japan,Kyoto Bowl,Starter,8,295,4.8
+44,Matcha Ice Cream,Japan,Kyoto Bowl,Dessert,7,235,4.7
+45,Iced Matcha,Japan,Kyoto Bowl,Drink,5,270,4.6
+46,Beef Tacos,Mexico,Taco Street,Main,7,475,4.8
+47,Chicken Burrito,Mexico,Taco Street,Main,9,390,4.7
+48,Nachos,Mexico,Taco Street,Starter,6,320,4.6
+49,Churros,Mexico,Taco Street,Dessert,4,305,4.8
+50,Horchata,Mexico,Taco Street,Drink,3,285,4.5
+51,Al Pastor Tacos,Mexico,Casa Salsa,Main,8,440,4.9
+52,Enchiladas,Mexico,Casa Salsa,Main,11,245,4.6
+53,Guacamole,Mexico,Casa Salsa,Starter,5,275,4.7
+54,Tres Leches Cake,Mexico,Casa Salsa,Dessert,6,190,4.8
+55,Hibiscus Tea,Mexico,Casa Salsa,Drink,3,210,4.4
+56,Beef Quesadilla,Mexico,Mexican Fiesta,Main,10,365,4.7
+57,Chicken Fajitas,Mexico,Mexican Fiesta,Main,14,220,4.6
+58,Street Corn,Mexico,Mexican Fiesta,Starter,4,330,4.8
+59,Caramel Flan,Mexico,Mexican Fiesta,Dessert,5,175,4.5
+60,Lime Agua Fresca,Mexico,Mexican Fiesta,Drink,3.5,255,4.6
+61,Butter Chicken,India,Spice Palace,Main,12,460,4.9
+62,Chicken Biryani,India,Spice Palace,Main,10,510,4.8
+63,Samosa,India,Spice Palace,Starter,3,405,4.7
+64,Gulab Jamun,India,Spice Palace,Dessert,4,265,4.8
+65,Mango Lassi,India,Spice Palace,Drink,4,350,4.7
+66,Palak Paneer,India,Delhi Kitchen,Main,11,275,4.6
+67,Tandoori Chicken,India,Delhi Kitchen,Main,14,335,4.8
+68,Onion Bhaji,India,Delhi Kitchen,Starter,4,240,4.5
+69,Kulfi,India,Delhi Kitchen,Dessert,5,225,4.7
+70,Masala Chai,India,Delhi Kitchen,Drink,2.5,380,4.8
+71,Masala Dosa,India,Mumbai Bites,Main,8,425,4.8
+72,Chana Masala,India,Mumbai Bites,Main,9,310,4.5
+73,Pakora,India,Mumbai Bites,Starter,4,280,4.6
+74,Ras Malai,India,Mumbai Bites,Dessert,6,205,4.7
+75,Rose Lassi,India,Mumbai Bites,Drink,4,185,4.4
+76,Steak Frites,France,Paris Bistro,Main,32,170,4.8
+77,Quiche Lorraine,France,Paris Bistro,Main,16,195,4.6
+78,French Onion Soup,France,Paris Bistro,Starter,10,210,4.7
+79,Creme Brulee,France,Paris Bistro,Dessert,11,230,4.9
+80,Cafe au Lait,France,Paris Bistro,Drink,5,285,4.5
+81,Coq au Vin,France,Lyon Kitchen,Main,28,150,4.7
+82,Duck Confit,France,Lyon Kitchen,Main,36,135,4.8
+83,Goat Cheese Salad,France,Lyon Kitchen,Starter,13,145,4.5
+84,Chocolate Mousse,France,Lyon Kitchen,Dessert,9,205,4.7
+85,Hot Chocolate,France,Lyon Kitchen,Drink,6,240,4.6
+86,Truffle Risotto,France,Maison Lumiere,Main,48,125,4.9
+87,Beef Bourguignon,France,Maison Lumiere,Main,38,160,4.8
+88,Escargots,France,Maison Lumiere,Starter,18,85,4.4
+89,Macarons,France,Maison Lumiere,Dessert,12,270,4.8
+90,Fresh Orange Juice,France,Maison Lumiere,Drink,7,155,4.3
+91,Doner Kebab,Turkey,Istanbul Grill,Main,9,455,4.8
+92,Adana Kebab,Turkey,Istanbul Grill,Main,13,305,4.7
+93,Lentil Soup,Turkey,Istanbul Grill,Starter,4,260,4.5
+94,Baklava,Turkey,Istanbul Grill,Dessert,6,340,4.9
+95,Turkish Tea,Turkey,Istanbul Grill,Drink,2,490,4.6
+96,Lahmacun,Turkey,Anatolia Table,Main,6,385,4.8
+97,Iskender Kebab,Turkey,Anatolia Table,Main,16,245,4.8
+98,Haydari,Turkey,Anatolia Table,Starter,5,175,4.4
+99,Kunefe,Turkey,Anatolia Table,Dessert,7,290,4.9
+100,Ayran,Turkey,Anatolia Table,Drink,3,315,4.5
+101,Manti,Turkey,Bosphorus Kitchen,Main,12,255,4.7
+102,Cheese Pide,Turkey,Bosphorus Kitchen,Main,10,300,4.6
+103,Stuffed Vine Leaves,Turkey,Bosphorus Kitchen,Starter,6,210,4.5
+104,Rice Pudding,Turkey,Bosphorus Kitchen,Dessert,5,185,4.6
+105,Turkish Coffee,Turkey,Bosphorus Kitchen,Drink,4,325,4.8
+106,Cheeseburger,USA,Liberty Diner,Main,12,560,4.8
+107,Fried Chicken,USA,Liberty Diner,Main,14,420,4.7
+108,French Fries,USA,Liberty Diner,Starter,5,530,4.6
+109,Apple Pie,USA,Liberty Diner,Dessert,7,265,4.7
+110,Cola,USA,Liberty Diner,Drink,3,485,4.3
+111,BBQ Ribs,USA,Smoky Ranch,Main,28,295,4.9
+112,Smoked Brisket,USA,Smoky Ranch,Main,32,310,4.8
+113,Onion Rings,USA,Smoky Ranch,Starter,7,250,4.5
+114,Chocolate Brownie,USA,Smoky Ranch,Dessert,8,225,4.7
+115,Lemonade,USA,Smoky Ranch,Drink,4,275,4.5
+116,Ribeye Steak,USA,Manhattan Grill,Main,58,190,4.9
+117,Chicken Sandwich,USA,Manhattan Grill,Main,15,345,4.6
+118,Caesar Salad,USA,Manhattan Grill,Starter,11,185,4.4
+119,Cheesecake,USA,Manhattan Grill,Dessert,10,280,4.8
+120,Vanilla Milkshake,USA,Manhattan Grill,Drink,6,320,4.7
+121,Bibimbap,South Korea,Seoul Bowl,Main,12,375,4.8
+122,Bulgogi,South Korea,Seoul Bowl,Main,17,320,4.9
+123,Kimchi,South Korea,Seoul Bowl,Starter,4,285,4.6
+124,Bingsu,South Korea,Seoul Bowl,Dessert,8,240,4.8
+125,Barley Tea,South Korea,Seoul Bowl,Drink,3,195,4.3
+126,Korean Fried Chicken,South Korea,Busan Bites,Main,16,450,4.9
+127,Tteokbokki,South Korea,Busan Bites,Main,8,405,4.7
+128,Kimchi Pancake,South Korea,Busan Bites,Starter,7,255,4.6
+129,Hotteok,South Korea,Busan Bites,Dessert,4,275,4.8
+130,Peach Soda,South Korea,Busan Bites,Drink,3.5,220,4.4
+131,Galbi BBQ,South Korea,Han River Grill,Main,30,215,4.8
+132,Kimchi Stew,South Korea,Han River Grill,Main,11,290,4.6
+133,Mandu,South Korea,Han River Grill,Starter,6,305,4.7
+134,Red Bean Bun,South Korea,Han River Grill,Dessert,5,170,4.5
+135,Yuja Tea,South Korea,Han River Grill,Drink,4,185,4.6
+136,Pad Thai,Thailand,Bangkok Wok,Main,10,480,4.9
+137,Green Curry,Thailand,Bangkok Wok,Main,12,315,4.7
+138,Spring Rolls,Thailand,Bangkok Wok,Starter,5,290,4.6
+139,Mango Sticky Rice,Thailand,Bangkok Wok,Dessert,6,350,4.9
+140,Thai Iced Tea,Thailand,Bangkok Wok,Drink,4,410,4.8
+141,Tom Yum Soup,Thailand,Chiang Mai Kitchen,Main,11,330,4.8
+142,Thai Fried Rice,Thailand,Chiang Mai Kitchen,Main,9,395,4.6
+143,Papaya Salad,Thailand,Chiang Mai Kitchen,Starter,6,245,4.7
+144,Coconut Ice Cream,Thailand,Chiang Mai Kitchen,Dessert,5,275,4.8
+145,Coconut Water,Thailand,Chiang Mai Kitchen,Drink,3,310,4.5
+146,Massaman Curry,Thailand,Lotus Thai,Main,15,260,4.8
+147,Basil Chicken,Thailand,Lotus Thai,Main,12,345,4.7
+148,Chicken Satay,Thailand,Lotus Thai,Starter,7,280,4.6
+149,Banana Roti,Thailand,Lotus Thai,Dessert,4,295,4.7
+150,Lemongrass Tea,Thailand,Lotus Thai,Drink,3,165,4.4
