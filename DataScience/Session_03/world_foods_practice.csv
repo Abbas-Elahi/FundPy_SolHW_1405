@@ -1,0 +1,151 @@
+id,dish,country,restaurant,category,price_usd,orders,rating
+1,Vegetable Pulao,India,Golden Tandoor,Main,8,315,4.1
+2,Focaccia,Italy,Venice Corner,Starter,6,155,4.5
+3,Clam Chowder,USA,Park Avenue Grill,Starter,12,370,4.2
+4,Pulled Pork Sandwich,USA,Maple Smokehouse,Main,17,420,4.3
+5,Caffe Latte,Italy,Olive and Basil,Drink,4.5,195,4.9
+6,Lokma,Turkey,Ankara Oven,Dessert,4.5,365,4.3
+7,Dal Makhani,India,Cardamom House,Main,9,530,4.7
+8,Baked Camembert,France,Petit Jardin,Starter,12,175,4.2
+9,Queso Fundido,Mexico,Sol Cantina,Starter,7,325,4.6
+10,Sweet Lime Juice,India,Curry Garden,Drink,3.5,295,4.4
+11,Persian Halva,Iran,Golestan Cafe,Dessert,4,210,4.2
+12,Cinnamon Hot Chocolate,Mexico,Sol Cantina,Drink,4.5,430,4.3
+13,Chicken Pakora,India,Golden Tandoor,Starter,6,265,4.3
+14,Adas Polo,Iran,Golestan Cafe,Main,9,380,4.8
+15,Tonkotsu Ramen,Japan,Noodle Lantern,Main,16,405,4.3
+16,Kofte,Turkey,Golden Horn Cafe,Main,11,375,4.9
+17,New York Strip Steak,USA,Park Avenue Grill,Main,56,185,4.9
+18,Aloo Tikki,India,Cardamom House,Starter,4,250,4.3
+19,Borani Esfenaj,Iran,Shiraz Garden,Starter,5,270,4.5
+20,Chicken Shish,Turkey,Cedar Grill,Main,12,265,4.1
+21,Sekanjabin,Iran,Caspian Kitchen,Drink,3,340,4.4
+22,Root Beer,USA,Route 66 Diner,Drink,3.5,265,4.6
+23,Calzone,Italy,Venice Corner,Main,14,335,4.0
+24,Soup e Jo,Iran,Golestan Cafe,Starter,5.5,215,4.7
+25,Mushroom Risotto,Italy,Olive and Basil,Main,19,405,4.1
+26,Injeolmi,South Korea,Bamboo Bowl,Dessert,6,220,4.4
+27,Blackcurrant Soda,France,Le Ciel,Drink,6,200,4.6
+28,Peach Iced Tea,USA,Maple Smokehouse,Drink,4,275,4.6
+29,Chocolate Chip Cookies,USA,Route 66 Diner,Dessert,4,240,4.2
+30,Taiyaki,Japan,Sakura Table,Dessert,5,200,4.3
+31,Urfa Kebab,Turkey,Cedar Grill,Main,14,380,4.8
+32,Drunken Noodles,Thailand,River Lotus,Main,12,280,4.8
+33,Pineapple Fried Rice,Thailand,Siam Spoon,Main,13,475,4.7
+34,Kimchi Fried Rice,South Korea,Bamboo Bowl,Main,10,280,4.3
+35,Panang Curry,Thailand,Jasmine Wok,Main,13,300,4.6
+36,Steamed Egg,South Korea,Bamboo Bowl,Starter,5.5,190,4.5
+37,Golden Tofu,Thailand,Siam Spoon,Starter,5,220,4.4
+38,Lyonnaise Salad,France,Rue de Provence,Starter,10,115,4.8
+39,Rosewater Sharbat,Iran,Shiraz Garden,Drink,3.5,275,4.4
+40,Kalam Polo,Iran,Shiraz Garden,Main,11,220,4.1
+41,Paneer Tikka Masala,India,Cardamom House,Main,13,285,4.9
+42,Saffron Tea,Iran,Golestan Cafe,Drink,2.5,350,4.0
+43,Genmaicha,Japan,Fuji Dining,Drink,3,395,4.6
+44,Caffe Macchiato,Italy,Tuscan Spoon,Drink,3,340,4.8
+45,Teriyaki Salmon,Japan,Sakura Table,Main,20,435,4.0
+46,Soy Garlic Chicken,South Korea,Bamboo Bowl,Main,15,430,4.6
+47,Anmitsu,Japan,Fuji Dining,Dessert,7,285,4.9
+48,Lobster Roll,USA,Park Avenue Grill,Main,34,340,4.2
+49,Crispy Garlic Shrimp,Thailand,Siam Spoon,Main,19,340,4.4
+50,Banana Split,USA,Park Avenue Grill,Dessert,10,245,4.1
+51,Mac and Cheese Bites,USA,Maple Smokehouse,Starter,8,345,4.4
+52,Grilled Salmon,USA,Maple Smokehouse,Main,25,280,4.2
+53,Pineapple Agua Fresca,Mexico,Aztec Kitchen,Drink,3.5,425,4.9
+54,Lamb Rogan Josh,India,Golden Tandoor,Main,18,420,4.1
+55,Butterfly Pea Lemonade,Thailand,River Lotus,Drink,4,265,4.9
+56,Cacik,Turkey,Golden Horn Cafe,Starter,4.5,165,4.6
+57,Affogato,Italy,Venice Corner,Dessert,8,260,4.0
+58,Kimbap,South Korea,Moonlight Seoul,Starter,7,375,4.2
+59,Seaweed Salad,Japan,Noodle Lantern,Starter,5,325,4.9
+60,Opera Cake,France,Le Ciel,Dessert,12,115,4.6
+61,Salmon en Croute,France,Le Ciel,Main,34,135,4.4
+62,Tulumba,Turkey,Cedar Grill,Dessert,4,370,4.8
+63,Roast Chicken with Herbs,France,Rue de Provence,Main,25,285,4.2
+64,Fish Curry,India,Curry Garden,Main,15,395,4.2
+65,Minestrone,Italy,Tuscan Spoon,Starter,7,210,4.3
+66,Mozzarella Sticks,USA,Route 66 Diner,Starter,7,290,4.7
+67,Mole Chicken,Mexico,Aztec Kitchen,Main,16,260,4.9
+68,Chicken Tostadas,Mexico,Cactus Cafe,Main,8,350,4.3
+69,Kheer,India,Golden Tandoor,Dessert,5,185,4.7
+70,Mercimek Koftesi,Turkey,Ankara Oven,Starter,5,345,4.4
+71,Agedashi Tofu,Japan,Sakura Table,Starter,6,255,4.1
+72,Ginger Chai,India,Golden Tandoor,Drink,2,320,4.2
+73,Japanese Cheesecake,Japan,Noodle Lantern,Dessert,8,155,4.2
+74,Samgyeopsal,South Korea,Moonlight Seoul,Main,24,285,4.6
+75,Chole Bhature,India,Curry Garden,Main,9,285,4.8
+76,Premium Sushi Platter,Japan,Fuji Dining,Main,62,105,4.9
+77,Mexican Rice Pudding,Mexico,Cactus Cafe,Dessert,5,225,4.8
+78,Mushroom Veloute,France,Le Ciel,Starter,13,305,4.6
+79,Dakgalbi,South Korea,Hanok Kitchen,Main,16,315,4.6
+80,Ezme Salad,Turkey,Cedar Grill,Starter,5,190,4.5
+81,Bacon Burger,USA,Route 66 Diner,Main,15,300,4.9
+82,Thai Pumpkin Custard,Thailand,River Lotus,Dessert,5.5,215,4.4
+83,Bouillabaisse,France,Rue de Provence,Main,39,280,4.2
+84,Pandan Tea,Thailand,Jasmine Wok,Drink,3,375,4.5
+85,Baghali Polo with Lamb,Iran,Caspian Kitchen,Main,19,225,4.6
+86,Ratatouille,France,Petit Jardin,Main,16,360,4.4
+87,Italian Lemon Cake,Italy,Tuscan Spoon,Dessert,6.5,265,4.2
+88,Caffe Latte,France,Petit Jardin,Drink,4.5,240,4.1
+89,Sparkling Lemonade,France,Rue de Provence,Drink,5,320,4.8
+90,Black Bean Soup,Mexico,Aztec Kitchen,Starter,5,330,4.8
+91,Patbingsu,South Korea,Moonlight Seoul,Dessert,9,340,4.7
+92,Lamb Guvec,Turkey,Ankara Oven,Main,17,355,4.0
+93,Carnitas Tacos,Mexico,Cactus Cafe,Main,9,495,4.7
+94,Seafood Linguine,Italy,Venice Corner,Main,27,225,4.8
+95,Soba Noodles,Japan,Fuji Dining,Main,13,380,4.3
+96,Pecan Pie,USA,Maple Smokehouse,Dessert,9,320,4.6
+97,Salgam Juice,Turkey,Cedar Grill,Drink,3,275,4.8
+98,Ranginak,Iran,Caspian Kitchen,Dessert,5,265,4.3
+99,Yakgwa,South Korea,Hanok Kitchen,Dessert,4.5,175,4.9
+100,Jjajangmyeon,South Korea,Moonlight Seoul,Main,11,360,4.5
+101,Masghati,Iran,Shiraz Garden,Dessert,4.5,210,4.1
+102,Tamarind Agua Fresca,Mexico,Cactus Cafe,Drink,3,235,4.4
+103,Apple Tea,Turkey,Golden Horn Cafe,Drink,2.5,200,4.9
+104,Shrimp Tacos,Mexico,Sol Cantina,Main,13,365,4.0
+105,Japchae,South Korea,Hanok Kitchen,Main,12,400,4.6
+106,Carrot Halwa,India,Curry Garden,Dessert,5.5,385,4.1
+107,Croque Monsieur,France,Petit Jardin,Main,14,310,4.2
+108,Coconut Pudding,Thailand,Jasmine Wok,Dessert,5,165,4.2
+109,Bean Burrito,Mexico,Aztec Kitchen,Main,7,575,4.8
+110,Mexican Wedding Cookies,Mexico,Sol Cantina,Dessert,4,185,4.2
+111,Pad See Ew,Thailand,Jasmine Wok,Main,11,505,4.8
+112,Mast o Khiar,Iran,Caspian Kitchen,Starter,4,190,4.6
+113,Buffalo Chicken Wrap,USA,Route 66 Diner,Main,13,515,4.9
+114,Salsa with Tortilla Chips,Mexico,Cactus Cafe,Starter,4,230,4.5
+115,Chicken Lettuce Wraps,Thailand,River Lotus,Starter,7,315,4.0
+116,Gheymeh,Iran,Shiraz Garden,Main,12,245,4.2
+117,Dhokla,India,Curry Garden,Starter,4,175,4.7
+118,Ravioli Ricotta,Italy,Tuscan Spoon,Main,18,305,4.8
+119,Corn Tea,South Korea,Hanok Kitchen,Drink,3,260,4.4
+120,Tamarind Juice,Thailand,Siam Spoon,Drink,3.5,380,4.2
+121,Mirza Ghasemi,Iran,Caspian Kitchen,Main,8,300,4.8
+122,Oyakodon,Japan,Noodle Lantern,Main,12,385,4.9
+123,Strawberry Milkshake,USA,Park Avenue Grill,Drink,7,345,4.9
+124,Takoyaki,Japan,Fuji Dining,Starter,8,280,4.6
+125,Tarte Tatin,France,Rue de Provence,Dessert,11,225,4.7
+126,Cannoli,Italy,Olive and Basil,Dessert,7,295,4.5
+127,Salted Lassi,India,Cardamom House,Drink,3,235,4.2
+128,Beef Yakisoba,Japan,Sakura Table,Main,15,270,4.2
+129,Zereshk Polo with Chicken,Iran,Golestan Cafe,Main,15,230,4.7
+130,Hojicha Tea,Japan,Sakura Table,Drink,3.5,225,4.0
+131,Garlic Bread,Italy,Olive and Basil,Starter,5,220,4.7
+132,Tom Kha Gai,Thailand,River Lotus,Main,10,335,4.2
+133,Thai Coconut Pancakes,Thailand,Siam Spoon,Dessert,4.5,180,4.3
+134,Sikhye,South Korea,Moonlight Seoul,Drink,4,250,4.9
+135,Eggplant Parmigiana,Italy,Tuscan Spoon,Main,13,445,4.3
+136,Yuzu Soda,Japan,Noodle Lantern,Drink,4.5,250,4.3
+137,Gnocchi Sorrentina,Italy,Olive and Basil,Main,15,250,4.0
+138,Turkish Coffee,Turkey,Ankara Oven,Drink,4,375,4.1
+139,Chocolate Flan,Mexico,Aztec Kitchen,Dessert,6,270,4.3
+140,Blood Orange Soda,Italy,Venice Corner,Drink,4,225,4.1
+141,Chicken Gozleme,Turkey,Golden Horn Cafe,Main,8,330,4.5
+142,Profiteroles,France,Petit Jardin,Dessert,9,210,4.0
+143,Kazandibi,Turkey,Golden Horn Cafe,Dessert,6,215,4.6
+144,Jalebi,India,Cardamom House,Dessert,4.5,245,4.3
+145,Spinach Borek,Turkey,Ankara Oven,Main,9,345,4.4
+146,Korean Plum Tea,South Korea,Bamboo Bowl,Drink,4.5,305,4.9
+147,Beef Filet with Truffles,France,Le Ciel,Main,74,70,4.9
+148,Korean Fish Cakes,South Korea,Hanok Kitchen,Starter,5,155,4.8
+149,Thai Fish Cakes,Thailand,Jasmine Wok,Starter,6,170,4.6
+150,Chicken Tamales,Mexico,Sol Cantina,Main,10,390,4.8
